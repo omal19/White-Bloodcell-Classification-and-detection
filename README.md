@@ -1,6 +1,7 @@
 # White Bloodcell Classification and Detection
 
 #
+
 ### Download Data from here (108 MB) - https://www.kaggle.com/paultimothymooney/blood-cells
 
 #
@@ -33,6 +34,6 @@
 ##
 #
 
-## ** Localizing Blood Cells ** 
+# ** Localizing Blood Cells ** 
 
 ![collage 1 (1)](https://user-images.githubusercontent.com/47252506/81501009-796b3a00-92f3-11ea-91dd-b15f9a1c81d9.jpg)
