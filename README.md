@@ -17,14 +17,10 @@
 ![2762b31a3fa0757d35c704edb326cb123fddc7d5](https://user-images.githubusercontent.com/47252506/81500949-0792f080-92f3-11ea-93ae-b29a09036e42.jpg)
 
 #
-#
-#
 ##### CNN model summary
 
 ![Screenshot (87)](https://user-images.githubusercontent.com/47252506/81500956-1b3e5700-92f3-11ea-9fd3-384c59edfc36.png)
 
-#
-#
 ##### Result
 
 ![Screenshot (88)](https://user-images.githubusercontent.com/47252506/81500973-45901480-92f3-11ea-91dc-610bcd2675bd.png)
