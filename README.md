@@ -7,8 +7,8 @@
 #
 ## -- Using OpenCV python
 
-
-![collage (1)](https://user-images.githubusercontent.com/47252506/81500916-c13d9180-92f2-11ea-9dc3-3b181f89a498.jpg)         ![collage](https://user-images.githubusercontent.com/47252506/81500918-c3075500-92f2-11ea-815e-3c6768e71a46.jpg)
+![collage (1)](https://user-images.githubusercontent.com/47252506/81502382-37de8d00-92fb-11ea-8cf8-e522cc6fb8ca.jpg)
+![collage](https://user-images.githubusercontent.com/47252506/81502385-3a40e700-92fb-11ea-87c5-631d79ceb7f5.jpg)
 
 #
 #
